@@ -1,4 +1,4 @@
-name: WEB-Automation + MAVEN
+name: WEB-Automation + Maven
 
 on:
   push:
